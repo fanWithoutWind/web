@@ -1,0 +1,25 @@
+*{
+    position: absolute;
+}
+
+div{
+    width: 100px;
+    height:100px;
+    background-color: aqua;
+}
+
+.aqua{
+    background-color: aqua;
+}
+
+.black{
+
+    background-color: black;
+}
+.right{
+    left:100px;
+}
+
+.bottom{
+    top:100px;
+}

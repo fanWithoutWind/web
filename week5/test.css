@@ -1,0 +1,16 @@
+.box{
+    margin-top:50px;
+    margin-left: 43%;
+    background-color: beige;
+    height:150px;
+    width:250px;
+}
+#b1{
+    color:red;
+}
+#b2{
+    color:blue;
+}
+#b3{
+    color:rebeccapurple;
+}

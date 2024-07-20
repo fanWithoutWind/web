@@ -1,0 +1,40 @@
+  *{
+    box-sizing: border-box;
+}  
+
+
+
+.black{
+    width:100px;
+    height:100px;
+    background-color: black;
+    padding:25px;
+}
+
+.cyan{
+    width:400px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.blue{
+    width:50px;
+    height: 50px;
+    background-color: blue;
+}
+
+.R{
+    padding-left:100px;
+}
+
+.RR{
+    padding-left:200px;
+}
+
+.RRR{
+    padding-left:300px;
+}
+
+.B{
+    padding:25px;
+}

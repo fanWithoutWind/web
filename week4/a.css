@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+
+div{
+    font-size: 20px;
+}
+
+.S{
+    height:50px;
+    width: 1500px; 
+}
+
+.searcher{
+    margin-right: 50px;
+    border:1px solid black;
+}
+
+img{
+   height:50px;
+   width: 50px; 
+}

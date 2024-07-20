@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}  
+
+
+.box{
+    width:500px;
+    height:500px;
+    background-color: bisque;
+    border:3px solid black;
+    border-radius: 25px;
+}
+
+.first{
+    background-color: aqua;
+    margin-top: 50px;
+}
+
+.in{
+    margin-left: 50px;
+    width:400px;
+}
+.last{
+    background-color: yellow;
+}
