@@ -1,11 +1,15 @@
+*{
+    margin: 0;
+}
 div{
     width: 200px;
     height:200px;
 }
+
 .yellow{
     background-color: yellow;
 }
-#blue{
+.blue{
     background-color:blue;
 }
 
@@ -13,5 +17,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
+    height: 100px
+}
+section{
+    height: 100%
 }
